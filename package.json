@@ -1,0 +1,25 @@
+{
+  "name": "rkddmlk",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aws",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soohyuneeee/aws_rkddml.git"
+  },
+  "keywords": [
+    "aws"
+  ],
+  "bugs": {
+    "url": "https://github.com/soohyuneeee/aws_rkddml/issues"
+  },
+  "homepage": "https://github.com/soohyuneeee/aws_rkddml#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
